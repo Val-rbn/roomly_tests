@@ -66,11 +66,4 @@ public class AdminBookingDetailsPage extends BasePage {
         return getBookingDetailsTitle().getText();
     }
 
-
-
-
-
-
-
-
 }
